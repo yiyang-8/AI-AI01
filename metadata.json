@@ -1,0 +1,7 @@
+{
+  "name": "LumiDecor AI 室内设计顾问",
+  "description": "通过 AI 赋能的室内设计即刻改变您的生活空间。上传照片，在北欧风、世纪中期现代风等风格间自由切换，并使用交互式 AI 完善每一个细节，获取可购买的家居建议。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
